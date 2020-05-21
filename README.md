@@ -1,1 +1,1 @@
-# Dazir-ezample-plugin
+# Dazir-example-plugin
